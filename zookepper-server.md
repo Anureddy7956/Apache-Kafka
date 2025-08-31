@@ -7,3 +7,7 @@ cmd
   bin/zookeeper-server-start.sh config/zookeeper.properties
 </pre>
 ### Default port - 2181
+
+
+
+<img width="1915" height="933" alt="Screenshot From 2025-08-31 23-28-40" src="https://github.com/user-attachments/assets/be506b66-6b82-4d3f-a386-c074a722f6e5" />
