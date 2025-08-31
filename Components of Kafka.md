@@ -1,7 +1,7 @@
 # Kafka Components
 1.Producer - Publishes the messages
 
-2.Comsumer- Consume the messages
+2.Consumer- Consume the messages
 
 3.Broker- Intermediate entity that helps in message exchanging between a producer and a consumer.
 
