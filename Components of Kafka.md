@@ -15,3 +15,11 @@
 
 8.Zookeeper- kafka uses zookepper for co-ordination and to track the status of kafka cluster nodes
 
+
+
+
+# Simple Diagram
+
+
+
+<img width="1202" height="589" alt="Screenshot From 2025-08-31 23-05-57" src="https://github.com/user-attachments/assets/c6894c50-2a85-47e3-981b-0834e949eb2b" />
