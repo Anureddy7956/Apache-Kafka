@@ -3,7 +3,7 @@
 ### First step to start zookepper server - open the downloaded kafka folder in terminal
 use this following command
 <pre>
-cmd
+bash
   bin/zookeeper-server-start.sh config/zookeeper.properties
 </pre>
 #### Default port - 2181
@@ -16,7 +16,7 @@ cmd
 ### Second step to start kafka/broker server - open the downloaded kafka folder in new terminal
 use this following command
 <pre>
-  cmd
+  bash
     bin/kafka-server-start.sh config/server.properties
 </pre>
 #### Default port - 9092
