@@ -19,7 +19,8 @@
 
 
 # Simple Diagram
+<img width="1181" height="645" alt="Screenshot From 2025-09-01 12-55-41" src="https://github.com/user-attachments/assets/146511e4-f660-49d8-ba5f-7350674f546d" />
 
 
 
-<img width="1202" height="589" alt="Screenshot From 2025-08-31 23-05-57" src="https://github.com/user-attachments/assets/c6894c50-2a85-47e3-981b-0834e949eb2b" />
+
