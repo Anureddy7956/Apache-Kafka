@@ -67,3 +67,22 @@ replication factor is not used
  
 <img width="1920" height="151" alt="Screenshot From 2025-09-03 09-01-51" src="https://github.com/user-attachments/assets/e273bf8b-fd31-43f2-aa1b-0cc5323bd1a0" />
 
+# Chat demo system in terminal
+
+
+<img width="1920" height="880" alt="Screenshot From 2025-09-03 09-38-40" src="https://github.com/user-attachments/assets/e133e50b-2672-4694-9950-b6a03beb5fdd" />
+  Left hand side - Producer    _______________________________________________________________                                                                                           Right hand side -Consumer 
+                    
+
+                    
+Producer-> produces the message(sender)
+
+
+Consumer-> consumes the message(reciever)
+
+
+# In GUI offset explorer
+
+<img width="1920" height="1011" alt="Screenshot From 2025-09-03 09-42-25" src="https://github.com/user-attachments/assets/090a0070-aa70-4fe8-9cab-60e6a85ec086" />
+
+
